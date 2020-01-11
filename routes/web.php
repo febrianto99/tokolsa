@@ -15,10 +15,26 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('men', function () {
-    return view('men');
+Route::get('bag', function () {
+    return view('bag');
 });
 
-Route::get('productdetail', function () {
-    return view('productdetail');
+Route::get('about', function () {
+    return view('about');
+});
+
+Route::get('contact', function () {
+    return view('contact');
+});
+
+Route::get('casuals', function () {
+    return view('casuals');
+});
+
+Route::get('travelling', function () {
+    return view('travelling');
+});
+
+Route::get('women', function () {
+    return view('women');
 });
