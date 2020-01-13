@@ -46,7 +46,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="index">Tas Olsa</a></div>
+							<div id="colorlib-logo"><a href="/">Tas Olsa</a></div>
 						</div>
 						<div class="col-sm-5 col-md-3">
 			            <form action="#" class="search-wrap">
@@ -69,7 +69,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(frontend/footwear/images/tas4.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/tos3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -86,7 +86,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(frontend/footwear/images/tas6.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/tos10.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -103,7 +103,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(frontend/footwear/images/tas9.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/tos6.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -180,7 +180,7 @@
 								<img src="frontend/footwear/images/tas13.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Tas Perempuan Rainbow</a></h2>
+								<h2><a href="#">Tas Casual Wanita Rainbow</a></h2>
 								<span class="price">Rp.150.000</span>
 							</div>
 						</div>
@@ -211,22 +211,22 @@
 					<div class="col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-5.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/tos8.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Wanita Purple</a></h2>
+								<span class="price">Rp.175.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-6.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/tos9.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Wanita Maroon Black</a></h2>
+								<span class="price">Rp.230.000</span>
 							</div>
 						</div>
 					</div>
@@ -245,51 +245,6 @@
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
 								<img src="frontend/footwear/images/item-8.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="w-100"></div>
-					<div class="col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-9.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-10.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-11.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-12.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
 								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
@@ -322,21 +277,6 @@
 					</div>
 				</div>
 			</div>
-			<div class="copy">
-				<div class="row">
-					<div class="col-sm-12 text-center">
-						<p>
-							<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
-							<span class="block">Demo frontend/footwear/Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a> , <a href="http://pexels.com/" target="_blank">Pexels.com</a></span>
-						</p>
-					</div>
-				</div>
-			</div>
-		</footer>
-	</div>
-
 	<div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="ion-ios-arrow-up"></i></a>
 	</div>

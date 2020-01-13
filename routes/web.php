@@ -38,3 +38,7 @@ Route::get('travelling', function () {
 Route::get('women', function () {
     return view('women');
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
