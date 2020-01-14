@@ -46,7 +46,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="/">Tas Olsa</a></div>
+							<div id="colorlib-logo"><a href="women">Women</a></div>
 						</div>
 
 		         </div>
@@ -77,7 +77,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="breadcrumbs-img" style="background-image: url(frontend/footwear/images/cover-img-1.jpg);">
+						<div class="breadcrumbs-img" style="background-image: url(frontend/footwear/images/toss4.jpg);">
 						</div>
 					</div>
 				</div>

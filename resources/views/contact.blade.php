@@ -57,7 +57,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="/">Tas Olsa</a></div>
+							<div id="colorlib-logo"><a href="contact">Contact</a></div>
 						</div>
 
 					<div class="row">
@@ -91,16 +91,13 @@
 						<h3>Contact Information</h3>
 						<div class="row contact-info-wrap">
 							<div class="col-md-3">
-								<p><span><i class="icon-location"></i></span> 198 West 21th Street, <br> Suite 721 New York NY 10016</p>
+								<p><span><i class="icon-location"></i></span> Jalan Terusan Cibaduyut, <br>Cibaduyut - Bandung</p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+								<p><span><i class="icon-phone3"></i></span> <a href="tel://0895412427355">0895412427355</a></p>
 							</div>
 							<div class="col-md-3">
-								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
-							</div>
-							<div class="col-md-3">
-								<p><span><i class="icon-globe"></i></span> <a href="#">yoursite.com</a></p>
+								<p><span><i class="icon-paperplane"></i></span> <a href="mailto:febrianmarkoto@gmail.com">febrianmarkoto@gmail.com</a></p>
 							</div>
 						</div>
 					</div>

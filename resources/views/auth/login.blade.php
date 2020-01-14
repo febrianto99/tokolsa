@@ -32,7 +32,7 @@
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
-				<div class="login100-form-title" style="background-image: url(/login/images/bg-01.jpg);">
+				<div class="login100-form-title" style="background-image: url(/login/images/tos12.jpg);">
 					<span class="login100-form-title-1">
 						Sign In
 					</span>
@@ -61,8 +61,8 @@
 						</div>
 
 						<div>
-							<a href="#" class="txt1">
-								Forgot Password?
+							<a href="register" class="txt1">
+								Register
 							</a>
 						</div>
 					</div>

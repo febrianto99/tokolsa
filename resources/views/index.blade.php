@@ -69,7 +69,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(frontend/footwear/images/tos3.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/toss3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -86,7 +86,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(frontend/footwear/images/tos10.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/toss2.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -96,7 +96,7 @@
 					   					<h1 class="head-1">Huge</h1>
 					   					<h2 class="head-2">Sale</h2>
 					   					<h2 class="head-3"><strong class="font-weight-bold">50%</strong> Off</h2>
-					   					<p class="category"><span>Big sale sandals</span></p>
+					   					<p class="category"><span>Big sale bag</span></p>
 				   					</div>
 				   				</div>
 				   			</div>
@@ -113,7 +113,7 @@
 					   					<h1 class="head-1">New</h1>
 					   					<h2 class="head-2">Arrival</h2>
 					   					<h2 class="head-3">up to <strong class="font-weight-bold">30%</strong> off</h2>
-					   					<p class="category"><span>New stylish shoes for men</span></p>
+					   					<p class="category"><span>New stylish bag for men</span></p>
 				   					</div>
 				   				</div>
 				   			</div>
@@ -233,22 +233,22 @@
 					<div class="col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-7.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/tas12.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Travelling Pria</a></h2>
+								<span class="price">Rp.175.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-8.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/toss1.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Sekolah Pria</a></h2>
+								<span class="price">Rp.150.000</span>
 							</div>
 						</div>
 					</div>

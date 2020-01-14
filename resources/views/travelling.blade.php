@@ -46,7 +46,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="/">Tas Olsa</a></div>
+							<div id="colorlib-logo"><a href="travelling">Travelling</a></div>
 						</div>
 
 		         </div>

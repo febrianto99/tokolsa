@@ -46,7 +46,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="/">Tas Olsa</a></div>
+							<div id="colorlib-logo"><a href="about">About</a></div>
 						</div>
 
 					<div class="row">
@@ -85,8 +85,8 @@
 					<div class="col-sm-6">
 						<div class="about-wrap">
 							<h2>Toko Tas Cibaduyut yang dibuat oleh tangan-tangan Proffesional</h2>
-							<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
-							<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.</p>
+							<p>Berdiri sejak 2013, Tas Olsa memfokuskan untuk membuat produk tas berupa tas casual, travelling dan women. Tas Olsa terus berinovasi dalam pembuatan produknya. Penggunaan bahan bahan kualitas baik dipadukan dengan tangan terampil pengrajin lokal terbaik membuat Tas Olsa pilihan tepat Tas mu.</p>
+							<p>Produk tas yang dibuat pun memberikan kenyamanan saat di pakai dengan ketahanan yang berani diadu. Tas dibuat dengan berbagai varian memberikanmu berbagai macam pilihan tas yang cocok untuk dipakai kegiatan sehari hari atau menemanimu bepergian..</p>
 						</div>
 					</div>
 				</div>
