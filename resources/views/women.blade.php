@@ -77,7 +77,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col">
-						<div class="breadcrumbs-img" style="background-image: url(frontend/footwear/images/toss4.jpg);">
+						<div class="breadcrumbs-img" style="background-image: url(frontend/footwear/images/wm2.jpg);">
 						</div>
 					</div>
 				</div>

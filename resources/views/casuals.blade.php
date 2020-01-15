@@ -95,89 +95,44 @@
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-1.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/cas1.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Casual Man Brown</a></h2>
+								<span class="price">Rp.120.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-2.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/cas4.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Minam Meaghan</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Casual Man green ckecker</a></h2>
+								<span class="price">Rp.120.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-3.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/cas5.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Men's Taja Commissioner</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Casual Man Blue</a></h2>
+								<span class="price">Rp.120.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-4.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/cas7.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Russ Men's Sneakers</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="w-100"></div>
-					<div class="col-md-3 col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-5.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-6.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-7.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-lg-3 mb-4 text-center">
-						<div class="product-entry border">
-							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-8.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
-							</a>
-							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">Tas Casual Man Black</a></h2>
+								<span class="price">Rp.100.000</span>
 							</div>
 						</div>
 					</div>
@@ -185,44 +140,44 @@
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-9.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn1.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken grey</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-10.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn2.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken blue red</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-11.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn3.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken black red</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-12.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn4.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken pink</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
@@ -230,44 +185,89 @@
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-13.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn7.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken nut</a></a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-14.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn15.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken Full Black</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-15.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn8.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken purple</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-3 col-lg-3 mb-4 text-center">
 						<div class="product-entry border">
 							<a href="#" class="prod-img">
-								<img src="frontend/footwear/images/item-16.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+								<img src="frontend/footwear/images/kkn9.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
 							</a>
 							<div class="desc">
-								<h2><a href="#">Women's Boots Shoes Maca</a></h2>
-								<span class="price">$139.00</span>
+								<h2><a href="#">fjalraven kanken Red</a></h2>
+								<span class="price">Rp.300.000</span>
+							</div>
+						</div>
+					</div>
+					<div class="w-100"></div>
+					<div class="col-md-3 col-lg-3 mb-4 text-center">
+						<div class="product-entry border">
+							<a href="#" class="prod-img">
+								<img src="frontend/footwear/images/kkn11.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+							</a>
+							<div class="desc">
+								<h2><a href="#">fjalraven kanken blue</a></h2>
+								<span class="price">Rp.300.000</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-lg-3 mb-4 text-center">
+						<div class="product-entry border">
+							<a href="#" class="prod-img">
+								<img src="frontend/footwear/images/kkn12.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+							</a>
+							<div class="desc">
+								<h2><a href="#">fjalraven kanken blue sea</a></h2>
+								<span class="price">Rp.300.000</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-lg-3 mb-4 text-center">
+						<div class="product-entry border">
+							<a href="#" class="prod-img">
+								<img src="frontend/footwear/images/kkn13.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+							</a>
+							<div class="desc">
+								<h2><a href="#">fjalraven kanken green army</a></h2>
+								<span class="price">Rp.300.000</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-lg-3 mb-4 text-center">
+						<div class="product-entry border">
+							<a href="#" class="prod-img">
+								<img src="frontend/footwear/images/kkn14.jpg" class="img-fluid" alt="Free html5 bootstrap 4 template">
+							</a>
+							<div class="desc">
+								<h2><a href="#">fjalraven kanken mocca</a></h2>
+								<span class="price">Rp.300.000</span>
 							</div>
 						</div>
 					</div>

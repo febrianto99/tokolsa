@@ -98,7 +98,7 @@
 					</div>
 					<div class="col-sm-4 text-center">
 						<div class="featured">
-							<div class="featured-img featured-img-2" style="background-image: url(frontend/footwear/images/tos6.jpg);">
+							<div class="featured-img featured-img-2" style="background-image: url(frontend/footwear/images/css2.jpg);">
 								<h2>Travelling</h2>
 								<p><a href="travelling" class="btn btn-primary btn-lg">Visit</a></p>
 							</div>

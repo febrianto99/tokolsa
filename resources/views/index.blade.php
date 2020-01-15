@@ -69,7 +69,7 @@
 		<aside id="colorlib-hero">
 			<div class="flexslider">
 				<ul class="slides">
-			   	<li style="background-image: url(frontend/footwear/images/toss3.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/wm1.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -103,7 +103,7 @@
 				   		</div>
 			   		</div>
 			   	</li>
-			   	<li style="background-image: url(frontend/footwear/images/tos6.jpg);">
+			   	<li style="background-image: url(frontend/footwear/images/css3.jpg);">
 			   		<div class="overlay"></div>
 			   		<div class="container-fluid">
 			   			<div class="row">
@@ -261,7 +261,7 @@
 						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life</p>
 						<p>
 							<ul class="colorlib-social-icons">
-								<li><a href="#"><i class="icon-instagram"></i></a></li>
+								<li><a href="https://www.instagram.com/ehhto_/?hl=id"><i class="icon-instagram"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 							</ul>
 						</p>
